@@ -32,4 +32,4 @@ client.user.setGame(`Zinx_for_ever  `,"https://www.twitch.tv/dggamingbot")
  
  
  
-client.login(process.env.NTM0MDkzMTcwNzQ5NzM0OTQx.Dx0kjw.kSKavgf0HfPnj4S72SwHzIThNPc);
+client.login(process.env.BOT_TOKEN);
